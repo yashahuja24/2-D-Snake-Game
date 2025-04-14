@@ -30,6 +30,7 @@ Welcome to **Snake King**, a classic and fun terminal-based snake game written i
   💻 Using VS Code with MingW Compiler:-
 
     g++ project.cpp
+    <br>
     ./a.exe
 
   💻 Using Dev C++:
