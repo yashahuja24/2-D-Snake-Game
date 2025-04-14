@@ -28,7 +28,7 @@ Use a terminal or command prompt:
 g++ -o project.cpp
 
  -------------------------------
- ::WELCOME TO SNAKE GAME::
+ ::WELCOME TO SNAKE KING GAME::
  -------------------------------
 Press 's' to Start:
 
