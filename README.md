@@ -40,3 +40,11 @@ Press 's' to Start:
     ||              ||
     ||||||||||||||||||
         Score: 20
+
+## 📜 License
+
+This project is for educational and demo purposes only. Free to use and modify.
+
+---
+
+Enjoy the game and beat your high score! 🚀
