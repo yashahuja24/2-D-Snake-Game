@@ -59,7 +59,7 @@ Press 's' to Start:
 
 📁 Project Structure
 
-SnakeKing/
+SnakeKing/<br>
 ├── project.cpp      # Main source code<br>
 └── README.md        # Game documentation
 
