@@ -1,32 +1,46 @@
-# 🐍 Snake King Game
+# 🐍 Snake King - Terminal Snake Game in C++
 
-Welcome to **Snake King**, a fun and classic terminal-based snake game written in **C++**, created by **Yashvardhan Ahuja** from the DSATM CSE-AI Branch.
-
----
-
-## 🎮 Gameplay
-
-- Move the snake using **W**, **A**, **S**, **D** keys.
-- Eat the `*` (fruit) to grow your tail and score points.
-- Avoid hitting your own tail — or it's game over!
-- The snake wraps around the edges for a continuous playfield.
+Welcome to **Snake King**, a classic and fun terminal-based snake game written in **C++**, developed by **Yashvardhan Ahuja** from the DSATM CSE-AI Branch. It's a retro-style game that brings back the charm of old-school gaming — right in your command line!
 
 ---
 
-## 🖥️ Requirements
+## 🎮 Gameplay Features
 
-- C++ Compiler (e.g. `g++`)
-- Windows OS (uses `<conio.h>` and `<windows.h>`)
+- Control the snake using **W** (Up), **A** (Left), **S** (Down), and **D** (Right) keys.
+- Eat the `*` (fruit) to grow the snake’s tail and increase your score.
+- Avoid colliding with your own tail — or it's game over!
+- Snake wraps around screen edges for an infinite looping playfield.
+- Clean and simple text-based user interface.
+- Terminal based Project
+---
+
+## 🖥️ System Requirements
+
+- **C++ Compiler** (e.g., `g++`)
+- **Windows OS** (uses `<conio.h>` and `<windows.h>`)
+- Terminal/Command Prompt to run the game
+
+> 🛠️ _Note: May require slight modification for Linux or MacOS compatibility._
 
 ---
 
-## 🛠️ Compilation
+## 🚀 How to Compile and Run
 
-Use a terminal or command prompt:
+1. **Compile the game:**
+  💻 Using VS Code with MingW Compiler:-
 
-```bash
-g++ -o project.cpp
+    g++ project.cpp
+    ./a.exe
 
+  💻 Using Dev C++:
+    Open the project file.
+
+    Press F11 to compile and run.
+
+    Enjoy the game in the terminal!
+
+
+ 🧪 Sample Output
  -------------------------------
  ::WELCOME TO SNAKE KING GAME::
  -------------------------------
@@ -40,6 +54,25 @@ Press 's' to Start:
     ||              ||
     ||||||||||||||||||
         Score: 20
+
+
+📁 Project Structure
+
+SnakeKing/
+├── project.cpp      # Main source code
+└── README.md        # Game documentation
+
+---
+
+
+🙌 Credits
+Created with ❤️ by Yashvardhan Ahuja
+CSE - Artificial Intelligence Branch
+Dayananda Sagar Academy of Technology & Management (DSATM)
+
+
+---
+
 
 ## 📜 License
 
