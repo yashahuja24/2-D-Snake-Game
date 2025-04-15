@@ -81,4 +81,4 @@ This project is for educational and demo purposes only. Free to use and modify.
 
 ---
 
-Enjoy the game and beat your high score! 🚀
+Enjoy the game and beat your high score!!! 🚀
